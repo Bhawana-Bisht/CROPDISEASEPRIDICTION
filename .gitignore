@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments / libraries
+env/
+venv/
+*.egg-info/
+
+# Dataset
+data/
+dataset/
+*.csv
+*.zip
+*.tar.gz
+*.hdf5
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+llm_groq_api.py
+.env

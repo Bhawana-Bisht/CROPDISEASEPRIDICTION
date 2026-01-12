@@ -1,0 +1,27 @@
+{
+  "Bacterialblight": {
+    "description": "A bacterial disease causing yellowing and drying of rice leaves.",
+    "treatment": "Spray streptomycin or copper-based bactericides.",
+    "prevention": "Avoid excess irrigation and use resistant rice varieties."
+  },
+  "Blast": {
+    "description": "A fungal disease producing diamond-shaped lesions on leaves.",
+    "treatment": "Apply tricyclazole fungicide.",
+    "prevention": "Use balanced fertilizers and proper spacing."
+  },
+  "Brownspot": {
+    "description": "A fungal disease causing brown circular spots on rice leaves.",
+    "treatment": "Spray Mancozeb fungicide.",
+    "prevention": "Ensure proper drainage and balanced nutrition."
+  },
+  "HealthyLeaf": {
+    "description": "The rice leaf is healthy with no disease symptoms.",
+    "treatment": "No treatment required.",
+    "prevention": "Maintain good crop management practices."
+  },
+  "Tungro": {
+    "description": "A viral disease transmitted by leafhopper insects.",
+    "treatment": "Control insects using recommended insecticides.",
+    "prevention": "Use resistant varieties and control vectors."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "cnn_models": {
+    "ResNet18": {
+      "accuracy": 98.9,
+      "precision": 98.7,
+      "recall": 98.6,
+      "f1": 98.6,
+      "auc": 0.995
+    },
+    "MobileNetV2": {
+      "accuracy": 99.8,
+      "precision": 99.7,
+      "recall": 99.6,
+      "f1": 99.6,
+      "auc": 0.998
+    },
+    "VGG16": {
+      "accuracy": 97.9,
+      "precision": 97.5,
+      "recall": 97.4,
+      "f1": 97.4,
+      "auc": 0.991
+    }
+  },
+  "llm": {
+    "Explanation Accuracy": 5,
+    "Treatment Correctness": 5,
+    "Prevention Guidance": 4,
+    "Readability": 5
+  }
+}
