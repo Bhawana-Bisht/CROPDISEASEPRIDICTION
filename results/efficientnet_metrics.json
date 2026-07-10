@@ -1,0 +1,11 @@
+{
+    "cnn_models": {
+        "EfficientNetB0": {
+            "accuracy": 100.0,
+            "precision": 100.0,
+            "recall": 100.0,
+            "f1": 100.0,
+            "auc": 1.0
+        }
+    }
+}
