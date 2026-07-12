@@ -1,32 +1,23 @@
-fastapi==0.116.1
-uvicorn==0.35.0
-python-multipart==0.0.20
+Flask==3.1.1
+gunicorn==23.0.0
 
-# Data processing
 numpy==1.26.4
 pandas==2.2.3
 scikit-learn==1.6.1
 scipy==1.15.2
 pillow==11.1.0
 
-# Deep Learning
 tensorflow==2.19.0
 keras==3.9.2
 h5py==3.13.0
 
-# API validation
-pydantic==2.10.6
-pydantic-settings==2.8.1
 python-dotenv==1.0.1
 
-# Database (only if you use PostgreSQL)
 SQLAlchemy==2.0.38
 psycopg2-binary==2.9.9
 
-# Image processing (if used)
 opencv-python==4.11.0.86
 
-# Utilities
 requests==2.32.3
 joblib==1.4.2
 PyYAML==6.0.2
